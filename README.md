@@ -41,13 +41,13 @@ Launched via `streamlit run app.py`, the dashboard enables:
 
 ## 📁 Repository Structure
 
-├── README.md
-├── josaa_eda.ipynb # Exploratory Data Analysis notebook
-├── app.py # Streamlit dashboard code
-├── data/
-│ └── josaa_2022_cutoffs.csv
-├── requirements.txt # Python dependencies
-└── screenshots/ # Placeholders for dashboard previews
+- **README.md**
+- **josaa_eda.ipynb** # Exploratory Data Analysis notebook
+- **josaa.py** # Streamlit dashboard code
+- data/
+   -josaa_2022_cutoffs.csv
+- **requirements.txt** # Python dependencies
+- **screenshots**/ # Placeholders for dashboard previews
 
 
 ---
