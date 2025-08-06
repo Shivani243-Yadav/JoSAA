@@ -61,47 +61,5 @@ Launched via `streamlit run app.py`, the dashboard enables:
 
 ---
 
-## ⚙️ Setup & Run Instructions
 
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/Shivani243-Yadav/JoSAA.git
-   cd JoSAA
-Install dependencies
-
-pip install -r requirements.txt
-To explore EDA
-
-jupyter notebook josaa_eda.ipynb
-To launch the dashboard
-
-streamlit run app.py
-📊 Key Insights
-Branches like CSE and ECE show the highest competition with tight closing rank ranges.
-
-Top academic institutes such as IIT Bombay and IIT Delhi dominate preference lists among GEN category candidates.
-
-Significant variance in closing ranks across categories illustrates the impact of reservation.
-
-Rival institutes in regional clusters (e.g., NIT Trichy vs NIT Warangal) display contrasting cutoff dynamics.
-
-✅ Future Enhancements
-Add predictive modeling (e.g. cutoff rank predictor using ML).
-
-Include multi-year historical JoSAA data for trend forecasting.
-
-Deploy the Streamlit dashboard online (e.g. via Streamlit Cloud) with live, deployable UI.
-
-👥 Contributors
-Shivani Yadav – Lead developer & data analyst
-
-📌 Why This Project?
-Helps JoSAA aspirants make informed branch and institute preferences.
-
-Demonstrates data science workflow from raw data to interactive insights.
-
-Ready-to-deploy analytics application bridging coding and user experience.
-
-📝 License
-This project is licensed under the MIT License – see the LICENSE file for details.
 
